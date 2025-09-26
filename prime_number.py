@@ -1,6 +1,12 @@
 import sys
 
 print("This is a prime number module.")
+print("This is a prime number module.")
+print("This is a prime number module.")
+print("This is a prime number module.")
+
+def print_hello():
+    print("Hello, World!")
 
 def is_prime(n):
     if n < 2:
