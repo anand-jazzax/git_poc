@@ -1,5 +1,7 @@
 import sys
 
+print("This is a prime number module.")
+
 def is_prime(n):
     if n < 2:
         return False
