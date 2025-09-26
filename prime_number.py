@@ -1,6 +1,8 @@
 import sys
 
 print("This is a prime number module.")
+print("It can find the i-th prime number.")
+print("Usage: python3 prime_number.py <i>")
 
 def is_prime(n):
     if n < 2:
